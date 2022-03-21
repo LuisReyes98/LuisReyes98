@@ -1,4 +1,6 @@
-### Hi there 👋
+# I am Luis Rogelio Reyes Hernandez
+
+### Hello 👋 I am a programmer
 
 My dream Job is to Use Machine Learning and AI to build systems that help shape the future of humanity into a better world for everyone.
 
