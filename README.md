@@ -1,8 +1,13 @@
 # I am Luis Rogelio Reyes Hernandez
 
-### Hello 👋 I am a programmer
+I graduated as a computer engineer 
+
+### I am a programmer 
 
 My dream Job is to Use Machine Learning and AI to build systems that help shape the future of humanity into a better world for everyone.
+
+# [Hire Me](https://www.linkedin.com/in/luis-rogelio-reyes-hern%C3%A1ndez-3a1028114/)
+
 
 <!--
 **LuisReyes98/LuisReyes98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
